@@ -1,2 +1,2 @@
-# hug-x
-obvjub;o
+# custom carousel
+## using Bootstrap4 + Css3 ( clip-path )
