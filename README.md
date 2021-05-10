@@ -1,2 +1,5 @@
 # custom carousel
-## using Bootstrap4 + Css3 ( clip-path )
+## using
+* Bootstrap4 
+* Css3 
+   * clip-path
