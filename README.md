@@ -1,4 +1,4 @@
-# custom carousel
+# Bootstrap custom carousel
 ## using
 * Bootstrap4 
 * Css3 
