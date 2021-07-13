@@ -1,5 +1,6 @@
 # Bootstrap custom carousel
-## using
+> using
 * Bootstrap4 
 * Css3 
    * clip-path
+* not fully responsive
